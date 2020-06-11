@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file path="PLL_50M_12_8M_sim/PLL_50M_12_8M.vo" type="VERILOG" />
+ <topLevel name="PLL_50M_12_8M" />
+ <deviceFamily name="cyclonev" />
+</simPackage>
